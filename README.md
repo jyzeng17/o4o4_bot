@@ -1,5 +1,6 @@
 # o4o4_bot
 A telegram bot based on a finite state machine.
+
 This program is able to match two strangers by conditions to have a chat.
 
 ## Setup
@@ -32,11 +33,13 @@ python3 app.py
 
 ## Usage
 After sending the first message to the bot,
+
 it will ask you to choose your gender and that of the person you want to chat with by buttons.
 
 When the settings are all done,
+
 it will automatically match another user that satisfies your conditions to have a chat with you.
 
 In addition,
-You can always use the commands to leave the chat or to stop the matching process.
 
+You can always use the commands to leave the chat or to stop the matching process.
